@@ -1,4 +1,4 @@
-# Unhinted Iosevkafixedss03 WebFont 29.0.3
+# Unhinted Iosevkafixedss03 WebFont 29.0.4
 
 ## How to use
 
